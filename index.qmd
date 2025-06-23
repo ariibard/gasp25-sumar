@@ -127,7 +127,7 @@ is an internal R package developed by our team to facilitate access to local dat
 ::: {.callout-note} 
 ### Beneficiaries
 
-The identification of beneficiaries is based on two main national sources: (1) PUCO (Federal Unified Register of Beneficiaries) (2) SUMAR program registry provided by the National Ministry of Health 
+The identification of beneficiaries is based on two main national sources: (1) PUCO (National Health Coverage Registry) (2) SUMAR program registry provided by the National Ministry of Health 
 :::
 
 ## Impact
