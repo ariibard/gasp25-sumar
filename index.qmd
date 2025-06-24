@@ -103,11 +103,6 @@ Financed with [**World Bank**]{.fg style="--col: #70DF14"} support, it transfers
 3.  Analysis of performance indicators
 
 
-## Infrastructure and Automation in Buenos Aires City
-
-![](imagenes/dw.png){fig-align="center"}
-
-
 ## Tools
 ### R-based, open-source ecosystem for scalable health data processing
 
