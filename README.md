@@ -5,6 +5,8 @@ This repository contains the presentation “Optimizing Public Healthcare Cost R
 👥 Authors:
 Dacio Martinez & Ariana Bardauil
 
+👥 Team:
+Manuel Rodriguez Tablado, Eugenia Villanueva, Federico di Tata
 
 ### Abstract
 
